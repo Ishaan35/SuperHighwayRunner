@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d7044a8b722306d458008794da47f9d0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 70
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Strenuous
+  fontNames:
+  - Strenuous
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 384ae1bde52b7c94ea4bf37b72096f04, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
